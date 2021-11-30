@@ -1,0 +1,48 @@
+allow color font ❌
+alpha ❌
+bidi ❌
+border ❌
+case insensitive ❌
+center ❌
+dynamicoptions ❌
+emoji highlight ❌
+fuzzyhighlight ❌
+fuzzymatch ❌
+grid ❌
+gridnav ❌
+gruvbox ❌
+highlight ❌
+highpriority ❌
+incremental ❌
+initialtext ❌
+instant ❌
+json ❌
+line height ❌
+lines below prompt ❌
+listfullwidth ❌
+managed ❌
+morecolor ❌
+mouse support ❌
+multi selection ❌
+navhistory ❌
+no sort ❌
+non blocking stdin ❌
+numbers ❌
+password ❌
+pipeout ❌
+prefix completion ❌
+preselect ❌
+printindex ❌
+printinputtext ❌
+reject no match ❌
+restrict return ❌
+scroll ❌
+separator ❌
+solarized ❌
+symbols ❌
+topbar ❌
+tsv ❌
+vertfull ❌
+xresources ❌
+xresources alt ❌
+xyw ❌
