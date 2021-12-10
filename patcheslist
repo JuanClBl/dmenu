@@ -1,8 +1,8 @@
 allow color font ❌
 alpha ✅
 bidi ❌
-border ❌
-case insensitive ❌
+border ✅
+case insensitive ✅
 center ❌
 dynamicoptions ❌
 emoji highlight ❌
