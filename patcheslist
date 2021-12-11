@@ -3,12 +3,12 @@ alpha ✅
 bidi ❌
 border ✅
 case insensitive ✅
-center ❌
+center ✅
 dynamicoptions ❌
 emoji highlight ❌
 fuzzyhighlight ❌
 fuzzymatch ❌
-grid ❌
+grid ✅
 gridnav ❌
 gruvbox ❌
 highlight ❌
