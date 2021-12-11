@@ -27,7 +27,7 @@ multi selection ❌
 navhistory ❌
 no sort ❌
 non blocking stdin ❌
-numbers ❌
+numbers ✅
 password ❌
 pipeout ❌
 prefix completion ❌
