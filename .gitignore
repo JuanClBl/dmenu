@@ -4,3 +4,6 @@ drw.o
 stest
 stest.o
 util.o
+.cache
+_vimrc_local.vim
+compile_commands.json
